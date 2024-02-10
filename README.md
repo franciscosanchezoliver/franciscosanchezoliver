@@ -7,7 +7,7 @@
 
 ##  :wrench: Working Experience :hammer:
 ### **[Axpe Consulting](https://www.axpe.com/)** 
-from 09/2022 to 11/2023 as **MLOps Engineer**
+Currently working here since 11/2023 as **MLOps Engineer**
 - MLflow
 - Spark
 - Python
