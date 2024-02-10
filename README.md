@@ -5,12 +5,18 @@
 ``Graduated in Software Engineering. University of Almería 2017``
 
 
-
-
 ##  :wrench: Working Experience :hammer:
+### **[Axpe Consulting](https://www.axpe.com/))** 
+from 09/2022 to 11/2023 as **MLOps Engineer**
+- MLflow
+- Spark
+- Python
+- Azure
+- Databricks
+
 
 ### **[JLL](https://en.wikipedia.org/wiki/JLL_(company))** 
-Currently working here from 09/2022 as **Big Data Engineer**
+from 09/2022 to 11/2023 as **Big Data Engineer**
 - Spark
 - Python
 - Scala
