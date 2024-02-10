@@ -6,14 +6,13 @@
 
 
 ##  :wrench: Working Experience :hammer:
-### **[Axpe Consulting](https://www.axpe.com/))** 
+### **[Axpe Consulting](https://www.axpe.com/)** 
 from 09/2022 to 11/2023 as **MLOps Engineer**
 - MLflow
 - Spark
 - Python
 - Azure
 - Databricks
-
 
 ### **[JLL](https://en.wikipedia.org/wiki/JLL_(company))** 
 from 09/2022 to 11/2023 as **Big Data Engineer**
