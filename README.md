@@ -36,6 +36,8 @@
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
 </div>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscosanchezoliver)]([https://github.com/franciscosanchezoliver/github-readme-stats](https://github.com/franciscosanchezoliver))
+
 ##  :wrench: Working Experience :hammer:
 ### **[Axpe Consulting](https://www.axpe.com/)** 
 Currently working here since 11/2023 as **MLOps Engineer**
