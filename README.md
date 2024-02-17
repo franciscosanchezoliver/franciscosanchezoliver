@@ -36,7 +36,7 @@
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscosanchezoliver)]([https://github.com/franciscosanchezoliver/github-readme-stats](https://github.com/franciscosanchezoliver))
+
 
 ##  :wrench: Working Experience :hammer:
 ### **[Axpe Consulting](https://www.axpe.com/)** 
@@ -94,3 +94,4 @@ from 03/2016 to 10/2017 as **Full Stack Developer and Android Developer**
 Develop a web page with PHP and Drupal.
 Development of an AndroidTV application using Android with Java, Retrofit and SQL.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscosanchezoliver)]([https://github.com/franciscosanchezoliver/github-readme-stats](https://github.com/franciscosanchezoliver))
