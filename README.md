@@ -44,6 +44,7 @@ Currently working here since 11/2023 as **MLOps Engineer**
 - MLflow
 - Spark
 - Python
+- AI
 - Azure
 - Databricks
 - MLOps
