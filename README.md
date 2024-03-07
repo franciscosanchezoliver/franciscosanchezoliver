@@ -41,22 +41,40 @@
 ##  :wrench: Working Experience :hammer:
 ### **[Axpe Consulting](https://www.axpe.com/)** 
 Currently working here since 11/2023 as **MLOps Engineer**
+Working in the MLOps architecture department. 
+
+functions:
+- Create and maintain a MLOps framework
+
+technologies:
 - MLflow
 - Spark
 - Python
-- AI
+- Machine learning
 - Azure
 - Databricks
 - MLOps
 - Machine Learning Architecture
+- Cloudera
 
 ### **[JLL](https://en.wikipedia.org/wiki/JLL_(company))** 
 from 09/2022 to 11/2023 as **Big Data Engineer**
+
+technologies:
 - Spark
 - Python
 - Scala
 - Azure
 - Databricks
+
+functions:
+- ETL pipelines.
+- Migration to Databricks.
+- API development.
+- Maintain and develop old systems.
+- Data engineering tasks.
+
+
 
 ### **[Bankinter](https://es.wikipedia.org/wiki/Bankinter)**
 from 07/2019 to 08/2022 as **Big Data Engineer**
