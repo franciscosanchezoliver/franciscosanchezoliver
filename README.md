@@ -43,9 +43,6 @@
 Currently working here since 11/2023 as **MLOps Engineer**
 Working in the MLOps architecture department. 
 
-functions:
-- Create and maintain a MLOps framework
-
 technologies:
 - MLflow
 - Spark
@@ -56,6 +53,9 @@ technologies:
 - MLOps
 - Machine Learning Architecture
 - Cloudera
+
+functions:
+- Develop and maintain a MLOps framework
 
 ### **[JLL](https://en.wikipedia.org/wiki/JLL_(company))** 
 from 09/2022 to 11/2023 as **Big Data Engineer**
