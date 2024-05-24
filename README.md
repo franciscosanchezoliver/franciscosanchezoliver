@@ -53,27 +53,31 @@ technologies:
 - MLOps
 - Machine Learning Architecture
 - Cloudera
+- Kedro
 
 functions:
-- Develop and maintain a MLOps framework
+- Develop, design, and maintain a proprietary MLOps framework.
+- Migration from on-premise (Cloudera) to the cloud (Databricks).
+- Productize Data Scientists projects.
+- Test state-of-the-art machine learning models within the company architecture. 
 
 ### **[JLL](https://en.wikipedia.org/wiki/JLL_(company))** 
 from 09/2022 to 11/2023 as **Big Data Engineer**
 
 technologies:
-- Spark
+- Spark.
 - Python
 - Scala
 - Azure
 - Databricks
 
 functions:
-- ETL pipelines.
-- Migration to Databricks.
-- API development.
-- Maintain and develop old systems.
-- Data engineering tasks.
-
+- Develop ETL pipelines. Develop data pipelines using Spark, pandas, and Scala.
+- Migration to Databricks. Productize an existing project, improving its code quality.
+- Define and implement Data Mappings.
+- Create CI/CD pipelines with Azure Pipelines.
+- API development with FastAPI. Create an API for an ingestion ingestion engine.
+- Maintain and develop old systems. Monitor and update data pipelines developed in Azure Data Factory and SQL Server.
 
 
 ### **[Bankinter](https://es.wikipedia.org/wiki/Bankinter)**
