@@ -37,10 +37,28 @@
 </div>
 
 
-
 ##  :wrench: Working Experience :hammer:
+
+### **[Banco Santander](https://www.santander.com)**
+Currently working here since 09/2024 as **Machine Learning Engineer**
+
+technologies:
+- Machine Learning
+- Spark
+- Python
+- MLflow
+- MLOps
+- Azure
+- Databricks
+
+functions:
+- Develop, design, and maintain a proprietary Machine Learning framework.
+- Productize Data Scientists projects.
+
+
 ### **[Axpe Consulting](https://www.axpe.com/)** 
-Currently working here since 11/2023 as **MLOps Engineer**
+from 11/2023 to 09/2024 as **MLOps Engineer**
+
 Working in the MLOps architecture department. 
 
 technologies:
