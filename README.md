@@ -136,5 +136,3 @@ Development of apps with vba for Access and Excel.
 from 03/2016 to 10/2017 as **Full Stack Developer and Android Developer**
 Develop a web page with PHP and Drupal.
 Development of an AndroidTV application using Android with Java, Retrofit and SQL.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscosanchezoliver)]([https://github.com/franciscosanchezoliver/github-readme-stats](https://github.com/franciscosanchezoliver))
